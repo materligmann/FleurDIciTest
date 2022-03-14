@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "nielle_des_blés.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

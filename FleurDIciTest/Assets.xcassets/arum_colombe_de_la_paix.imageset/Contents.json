@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "arum_colombe_de_la_paix.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

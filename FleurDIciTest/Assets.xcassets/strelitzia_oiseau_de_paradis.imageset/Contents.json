@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "strelitzia_oiseau_de_paradis.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

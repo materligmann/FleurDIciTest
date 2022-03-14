@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "boule_de_neige_virbunum_opulus.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
